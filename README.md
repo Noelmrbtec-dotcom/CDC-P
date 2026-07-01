@@ -1,4 +1,4 @@
-# CDC-P v3.1 - Um Cyber Organismo com Previsibilidade Absurda
+# CDC-P v3.1 - Um Cyber Organismo com Previsibilidade Absoluta
 
 ## Um sistema que transcende a definição de RTOS. Ele respira, tem reflexos, se adapta, se cura, se defende e, se tudo falhar, renasce. Tudo em 1360 palavras de ROM e 80 bytes de RAM.
 
