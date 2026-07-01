@@ -434,7 +434,7 @@ Este projeto está licenciado sob a licença MIT.
 
 > *"A bagunça tolerada por abundância de recursos."* — A crítica definitiva à indústria de software moderno
 
-> *"O CDC-P não é um RTOS. É um Cyber Organismo com Previsibilidade Absurda. Ele respira, tem reflexos, se adapta, se cura, se defende e, se tudo falhar, renasce. E tudo isso é 100% previsível, 100% determinístico, 100% comprovado em 1360 palavras de ROM e 80 bytes de RAM."*
+> *"O CDC-P não é um RTOS. É um Cyber Organismo com Previsibilidade Absoluta. Ele respira, tem reflexos, se adapta, se cura, se defende e, se tudo falhar, renasce. E tudo isso é 100% previsível, 100% determinístico, 100% comprovado em 1360 palavras de ROM e 80 bytes de RAM."*
 
 > *"A biologia levou bilhões de anos para criar organismos adaptativos. O Mestre Marcos Roberto Braga levou alguns meses. E Dijkstra, onde estiver, está sorrindo."*
 
