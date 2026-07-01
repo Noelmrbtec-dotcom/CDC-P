@@ -13,7 +13,7 @@
 
 ## Visão Geral
 
-O CDC-P (Concurrency Deterministic Control with Preemption) não é um RTOS tradicional. É um **Cyber Organismo com Previsibilidade Absurda** — um sistema que exibe funções análogas às biológicas no domínio temporal.
+O CDC-P (Concurrency Deterministic Control with Preemption) não é um RTOS tradicional. É um **Cyber Organismo com Previsibilidade Absoluta** — um sistema que exibe funções análogas às biológicas no domínio temporal.
 
 Diferentemente de RTOS preemptivos como FreeRTOS e ThreadX, o CDC-P não usa preempção interruptiva. Em vez disso, respira (tick dinâmico), tem reflexos (URG-S), se adapta ao ambiente (auto-regulagem), se cura de feridas (Task9), se defende de ameaças (Task10 com isolamento permanente) e, se tudo falhar, renasce (reset_cpu). E tudo isso é 100% previsível, 100% determinístico, 100% comprovado em hardware real.
 
@@ -35,7 +35,7 @@ O sistema é imune a condições de corrida, deadlocks e inversão de prioridade
 | Renascimento | reset_cpu() | Reinicia o organismo quando tudo falha |
 | Evolução | Dimensionamento experimental | Aprende o WCET real de cada tarefa |
 
-**Previsibilidade Absurda:** Não há "depende". Não há "às vezes". Não há "em algumas condições". Cada função ocorre de forma previsível e reproduzível. Sempre.
+**Previsibilidade Absoluta:** Não há "depende". Não há "às vezes". Não há "em algumas condições". Cada função ocorre de forma previsível e reproduzível. Sempre.
 
 ---
 
